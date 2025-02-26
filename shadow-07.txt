@@ -1,0 +1,5 @@
+alice:$1$b4dnFz8g$08CfnrXPvk4HpUZuB/M5e1:20009:0:99999:7:::
+bob:$1$dBufmvX4$yhUKzyJSQskPR6yqqNp/K1:20009:0:99999:7:::
+cory:$1$w0IsPcbB$sxpoRCla2JaMHlP99353d.:20009:0:99999:7:::
+derek:$1$qOiXnT7O$ptAJddcWOHFoGWFrItlmo1:20009:0:99999:7:::
+ella:$1$amBrlMXO$AYHj0gRCKTvOMkoVrT/1.1:20009:0:99999:7:::
